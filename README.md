@@ -3,11 +3,11 @@
 
 ![App Screenshot](GPTChatbox.png)
 
-A simple AI-powered chat application inspired by ChatGPT. This app allows users to converse with an AI assistant that is:
-Helpful
-Creative
-Clever
-Friendly
+A simple AI-powered chat application inspired by ChatGPT. This app allows users to converse with an AI assistant that is:<br>
+Helpful<br>
+Creative<br>
+Clever<br>
+Friendly<br>
 
 Technologies Used:
 The app is built with Python, Gradio, and OpenAI’s GPT API, providing a smooth and interactive chat experience directly in the browser.
