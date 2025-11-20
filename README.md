@@ -1,7 +1,7 @@
 # AI ChatBot like ChatGPT
 
 
-![App Screenshot](GPTChatBox.png)
+![App Screenshot](GPTChatbox.png)
 
 
 
